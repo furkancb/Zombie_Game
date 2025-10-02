@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: f3fe67581cbe9b046accadd6289fbfb5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _gameOverImage: {fileID: 2800000, guid: 310704b8ad84bba47a93d05eb9d326ba, type: 3}
+  - _winImage: {fileID: 2800000, guid: 3cb4bc077c4c2544ebdb96e769813c80, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
